@@ -1,0 +1,5 @@
+train: /home/hylee/small-object-detection-01/SkyFusion/train/images
+val: /home/hylee/small-object-detection-01/SkyFusion/valid/images
+
+nc: 3
+names: ["Aircraft", "ship", "vehicle"]
